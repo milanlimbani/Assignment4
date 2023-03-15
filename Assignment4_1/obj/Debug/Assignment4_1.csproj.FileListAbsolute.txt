@@ -1,0 +1,7 @@
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Assignment3\Assignment4_1\obj\Debug\Assignment4_1.csproj.CoreCompileInputs.cache
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Assignment3\Assignment4_1\bin\Debug\Assignment4_1.exe.config
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Assignment3\Assignment4_1\bin\Debug\Assignment4_1.exe
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Assignment3\Assignment4_1\bin\Debug\Assignment4_1.pdb
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Assignment3\Assignment4_1\obj\Debug\Assignment4_1.exe
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Assignment3\Assignment4_1\obj\Debug\Assignment4_1.pdb
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\Assignment3\Assignment4_1\obj\Debug\Assignment4_1.csproj.AssemblyReference.cache
